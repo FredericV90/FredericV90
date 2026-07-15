@@ -2,7 +2,7 @@ Try to make internet a better place 🙏
 
 * 🔫 Me [at Electronic Sports World Cup](https://frederic.zone/upload/player.jpg)
 * 📷 [My few photographs](https://photo.frederic.zone) built with **Nuxt/Django**
-* 💾 [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) *a Mozilla Firefox add-on*
+* 💾 [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) *a **Mozilla Firefox** add-on*
 * 🕹 [My steam profile](https://steamcommunity.com/profiles/76561197987715119)
 * ✉ hello@frederic.zone
 
