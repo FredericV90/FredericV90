@@ -6,7 +6,7 @@ Try to make internet a better place 🙏
 * 🕹 [My steam profile](https://steamcommunity.com/profiles/76561197987715119)
 * ✉ hello@frederic.zone
 
-*(whispering)* [Mozilla Firefox](https://github.com/0x7370346365/classic-tabs-firefox) is the best browser
+*(whispering)* [Mozilla Firefox](https://github.com/sp4ce99/classic-tabs-firefox) is the best browser
 
 #html #css #javascript #vuejs  
 #nuxt  #tailwindcss #django  
