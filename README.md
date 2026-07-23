@@ -4,7 +4,7 @@ Try to make internet a better place 🙏
 * 📷 [My few photographs](https://photo.frederic.zone) *built with **Nuxt/Django***
 * 💾 [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) *a **Mozilla Firefox** add-on*
 * 🕹 [My steam profile](https://steamcommunity.com/profiles/76561197987715119)
-* ✉ hello@frederic.zone
+* ✉ hello(at)frederic.zone
 
 *(whispering)* [Mozilla Firefox](https://github.com/sp4ce99/classic-tabs-firefox) is the best browser
 
