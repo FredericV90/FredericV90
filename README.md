@@ -1,7 +1,7 @@
 Try to make internet a better place 🙏
 
-* 🔫 Me [at Electronic Sports World Cup](https://frederic.zone/upload/player.jpg)
-* 📷 [My few photographs](https://photo.frederic.zone) *built with **Nuxt/Django***
+* 🔫 Me [at Electronic Sports World Cup](https://sp4ce.dev/upload/player.jpg)
+* 📷 [My few photographs](https://photo.sp4ce.dev) *built with **Nuxt/Django***
 * 💾 [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) *a **Mozilla Firefox** add-on*
 * 🕹 [My steam profile](https://steamcommunity.com/profiles/76561197987715119)
 * ✉ hello(at)frederic.zone
