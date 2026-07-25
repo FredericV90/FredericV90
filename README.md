@@ -10,5 +10,4 @@ Hello, my name is **Frédéric** also known as **sp4ce**
 #nuxt #tailwindcss #django  
 #python #api #affinity  
 
-Try to make internet a better place 🙏  
 *(whispering)* [Mozilla Firefox](https://github.com/sp4ce99/classic-tabs-firefox) is the best browser
