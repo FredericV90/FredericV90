@@ -1,4 +1,7 @@
-Hello, my name is **Frédéric** also known as **sp4ce**
+Hello, my name is **Frédéric**, also known as **sp4ce**.  
+I'm a passionate full-stack developer with a strong focus  
+on front-end development and UI/UX design. I’ve also  
+competed in video games tournaments on Counter-Strike.
 
 * 🔫 Me [at Electronic Sports World Cup](https://sp4ce.dev/upload/player.jpg)
 * 📷 [My few photographs](https://photo.sp4ce.dev) *built with **Nuxt/Django***
