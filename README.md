@@ -1,4 +1,4 @@
-Hello, my name is **Frédéric**, also known as **sp4ce**.  
+Hello, my name is Frédéric, also known as sp4ce.  
 I'm a passionate full-stack developer with a strong focus  
 on front-end development and UI/UX design. I’ve also  
 competed in video games tournaments on Counter-Strike.
