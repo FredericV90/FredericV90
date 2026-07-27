@@ -1,5 +1,5 @@
-Hello, my name is **Frédéric**, using the nickname sp4ce.  
-I'm a Front-End Developer with  a passion for UI/UX design,  
+Hello, my name is Frédéric, using the nickname sp4ce.  
+I'm a front-end developer with  a passion for UI/UX design,  
 I’ve also competed in video games tournaments on Counter-Strike.
 
 * 🔫 Me [at Electronic Sports World Cup](https://sp4ce.dev/upload/player.jpg)
