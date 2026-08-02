@@ -1,6 +1,6 @@
-Hello, I'm sp4ce, a front-end developer with  
-a passion for UI/UX design, I’ve also competed  
-in video games tournaments on Counter-Strike.
+Hello, my name is Frédéric, also known as sp4ce.  
+I'm a front-end developer with a passion for UI/UX design,  
+I’ve also competed in video games tournaments on Counter-Strike.
 
 * 🔫 Me [at Electronic Sports World Cup](https://sp4ce.dev/upload/player.jpg)
 * 📷 [My few photographs](https://photo.sp4ce.dev) *built with **Nuxt/Django***
@@ -8,8 +8,8 @@ in video games tournaments on Counter-Strike.
 * 🕹 [My STEAM profile](https://steamcommunity.com/profiles/76561197987715119)
 * ✉ hello(at)sp4ce.dev
 
-#html #css #javascript  
+#html #css #typescript  
 #vuejs #nuxt #tailwindcss  
-#django #api #affinity 
+#django #python #affinity 
 
 *(whispering)* [Mozilla Firefox](https://github.com/sp4ce99/classic-tabs-firefox) is the best browser
