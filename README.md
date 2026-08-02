@@ -1,7 +1,3 @@
-Hello, my name is Frédéric, also known as sp4ce.  
-I'm a front-end developer with a passion for UI/UX design,  
-I’ve also competed in video games tournaments on Counter-Strike.
-
 * 🔫 Me [at Electronic Sports World Cup](https://sp4ce.dev/upload/player.jpg)
 * 📷 [My few photographs](https://photo.sp4ce.dev) *built with **Nuxt/Django***
 * 💾 [saveIN](https://addons.mozilla.org/en-US/firefox/addon/savein/) *a **Mozilla Firefox** add-on*
